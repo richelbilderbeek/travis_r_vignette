@@ -10,5 +10,5 @@ The goal of this project is to have a clean Travis CI build of this R package, w
  * Function complexity: minimal
  * Tests: minimal
  * Documentation: minimal function description
- * Vignettes: no
+ * Vignettes: yes
  * Rcpp: no
