@@ -15,7 +15,7 @@ The goal of this project is to have a clean Travis CI build of this R package, w
 
 ## More complex setups
 
- * [travis_r_vignette_with_pic](https://github.com/richelbilderbeek/travis_r_vignette_with_pic): add a vignette with pictures
+ * [travis_r_vignette_with_pics](https://github.com/richelbilderbeek/travis_r_vignette_with_pics): add a vignette with pictures
 
 ## Less complex setups
 
